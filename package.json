@@ -10,8 +10,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "Calculator-CN"
+    "url": "https://github.com/ashhar001/Calculator-CN.git"
   },
+  "homepage": "https://github.com/ashhar001/Calculator-CN",
   "author": "ashhar001",
   "license": "ISC",
   "devDependencies": {
